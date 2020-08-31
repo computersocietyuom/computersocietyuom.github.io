@@ -14,14 +14,14 @@
 #clockdiv > div{
 	padding: 10px;
 	border-radius: 3px;
-	background: #00BF96;
+	background: #9932CC;
 	display: inline-block;
 }
 
 #clockdiv div > span{
 	padding: 10px;
 	border-radius: 3px;
-	background: #00816A;
+	background: #4B0082;
 	display: inline-block;
 }
 
